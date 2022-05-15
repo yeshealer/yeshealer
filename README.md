@@ -1,9 +1,9 @@
-<img align="center" src="https://raw.githubusercontent.com/youhealer/youhealer/main/header_img.png" />
+<img align="center" src="https://raw.githubusercontent.com/yeshealer/yeshealer/main/header_img.png" />
 
 <p align='center'>
-  <img alt='dwarffairy's Github followers' src="https://img.shields.io/github/followers/youhealer?label=Follow&style=flat&color=yellow&logo=github" />
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/youhealer?style=flat&logo=github&color=ff69b4" />
-  <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=youhealer.youhealer&style=for-the-badge" />
+  <img alt='yeshealer's Github followers' src="https://img.shields.io/github/followers/yeshealer?label=Follow&style=flat&color=yellow&logo=github" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yeshealer?style=flat&logo=github&color=ff69b4" />
+  <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=yeshealer.yeshealer&style=for-the-badge" />
 </p>
 
 ## Where to find me
