@@ -6,17 +6,6 @@
   <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=yeshealer.yeshealer&style=for-the-badge" />
 </p>
 
-## Where to find me
-                                                                                                                        
-<p align='center'>
-  <a href='https://www.linkedin.com/in/yeshealer/'><img alt='linkedin' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/" /></a>
-  <a href='mailto:yeshealer@gmail.com'><img src='https://img.shields.io/badge/-yeshealer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a>
-  <a href='https://t.me/keithyhealer'><img src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white' /></a>
-  <a href='https://medium.com/@yeshealer'><img src='https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium' /></a>
-  <a href='https://join.skype.com/invite/BkdGgxqSeZxJ'><img src='https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=Skype&logoColor=white' /></a>
-  <a href='https://stackoverflow.com/users/18228536/yeshealer'><img src='https://img.shields.io/badge/-Stackoverflow-f48225?style=flat-square&logo=Stackoverflow&logoColor=white' /></a>
-</p>
-
 ## Languages
 
 <p align='center'>
