@@ -44,6 +44,7 @@
   <img src='https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white' />
   <img src='https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white' />
   <img src='https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white' />
+  <img src='https://img.shields.io/badge/-TailwindCSS-FB7A24?style=flat-square&logo=TailwindCSS&logoColor=white' />
 </p>
 
 <p align='center'>
