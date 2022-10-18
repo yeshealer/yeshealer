@@ -22,7 +22,6 @@
   <img src='https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white' />
   <img src='https://img.shields.io/badge/-Binance-F0B90B?style=flat-square&logo=Binance&logoColor=white' />
   <img src='https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white' />
-  <img src='https://img.shields.io/badge/-NFT-3C3C3D?style=flat-square&logo=NFT&logoColor=white' />
 </p>
 
 ## Frameworks & Tools
