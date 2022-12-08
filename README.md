@@ -43,7 +43,6 @@
   <img src='https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white' />
   <img src='https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=Codepen&logoColor=white' />
   <img src='https://img.shields.io/badge/-CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white' />
   <img src='https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white' />
   <img src='https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white' />
   <img src='https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=Replit&logoColor=white' />
