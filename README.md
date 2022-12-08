@@ -28,7 +28,7 @@
 
 <p align='center'>
   <img src='https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white' />
-  <img src='https://img.shields.io/badge/-NextJS-61DAFB?style=flat-square&logo=Next&logoColor=white' />
+  <img src='https://img.shields.io/badge/-NextJS-61DAFB?style=flat-square&logo=Next.js&logoColor=white' />
   <img src='https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white' />
   <img src='https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white' />
   <img src='https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white' />
