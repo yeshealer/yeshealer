@@ -31,7 +31,7 @@
   <img src='https://img.shields.io/badge/-Vue-3FB27F?style=flat-square&logo=Vue.js&logoColor=white' />
   <img src='https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white' />
   <img src='https://img.shields.io/badge/-NuxtJS-00D57E?style=flat-square&logo=Nuxt.js&logoColor=white' />
-  <img src='https://img.shields.io/badge/-Web3-3FB27F?style=flat-square&logo=web3.js&logoColor=white' />
+  <img src='https://img.shields.io/badge/-NodeJS-3FB27F?style=flat-square&logo=node.js&logoColor=white' />
   <img src='https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white' />
   <img src='https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white' />
   <img src='https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white' />
