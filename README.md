@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/yeshealer/yeshealer/main/upload.jpg" />
+<img align="center" src="https://raw.githubusercontent.com/yeshealer/yeshealer/main/upload.png" />
 
 <p align='center'>
   <img alt='yeshealer's Github followers' src="https://img.shields.io/github/followers/yeshealer?label=Follow&style=flat&color=yellow&logo=github" />
