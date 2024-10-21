@@ -378,6 +378,7 @@ Experience with various blockchain protocols:
 ## Professional Experience
 
 **Frontend Developer** | *Aug 2021 - Present*
+**Blockchain Developer** | *Apr 2022 - Present*
 
 ## [Èquilibre Finance](https://equilibrefinance.com/)
 
