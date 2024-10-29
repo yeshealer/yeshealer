@@ -15,10 +15,10 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
 
 # Contact
 
-- 📧 **Email**: [as2742397@gmail.com](mailto:yeshealer@gmail.com)  
-- 🐦 **Twitter**: [@bitdeep_oficial](https://x.com/CuiAdan)  
+- 📧 **Email**: [yeshealer@gmail.com](mailto:yeshealer@gmail.com)  
+- 🐦 **Twitter**: [@CuiAdan](https://x.com/CuiAdan)  
 - 💬 **Discord**: **indashura**  
-- 🐙 **GitHub**: [github.com/bitdeep](https://github.com/yeshealer)
+- 🐙 **GitHub**: [github.com/yeshealer](https://github.com/yeshealer)
 
 
 ---
