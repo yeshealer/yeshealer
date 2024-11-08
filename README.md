@@ -12,15 +12,6 @@ _Aspiring to contribute to a protocol with a **$1,000,000,000 Total Value Locked
   <img src="https://img.shields.io/badge/Passion-Smart%20Contracts-red?style=flat-square&logo=solidity" alt="Smart Contracts">
 </div>
 
-
-# Contact
-
-- 📧 **Email**: [yeshealer@gmail.com](mailto:yeshealer@gmail.com)  
-- 🐦 **Twitter**: [@CuiAdan](https://x.com/CuiAdan)  
-- 💬 **Discord**: **indashura**  
-- 🐙 **GitHub**: [github.com/yeshealer](https://github.com/yeshealer)
-
-
 ---
 
 ## 🚀 Summary: A Journey Through Blockchain & AI Evolution
