@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Adan Cooper</h1>
-<h3 align="center">Full Stack Engineer | Blockchain Builder | Web3 Enthusiast</h3>
+<h1 align="center">Full Stack Engineer | Blockchain Builder | Web3 Enthusiast</h1>
 
 <p align="center">
   🚀 Building scalable products • 🔗 Blockchain & DeFi • 🤖 AI + Web3
@@ -88,3 +87,4 @@ Interested in:
 <p align="center">
   ⚡ Building the future of Web3, AI, and scalable digital products.
 </p>
+
