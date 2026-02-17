@@ -17,7 +17,7 @@
 
 ## About Me
 
-- 6+ years building production software across frontend, backend, blockchain, and data platforms.
+- 10+ years building production software across frontend, backend, blockchain, and data platforms.
 - Founder-minded engineer focused on shipping useful products, not just demos.
 - Built and delivered systems for DeFi, dApps, analytics dashboards, and real-time data pipelines.
 - Strong focus on performance, security, maintainability, and clean architecture.
