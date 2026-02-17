@@ -7,13 +7,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Frontend+Engineer+%7C+React+%2F+Next.js+%2F+TypeScript;Full-Stack+Developer+%7C+Node.js+%2F+Nest.js+%2F+Django+%2F+FastAPI;Blockchain+Developer+%7C+Solidity+%2F+DeFi+%2F+Cross-Chain+%2F+Smart+Contract+Security;AI+%26+Data+Engineer+%7C+RAG+%2F+Kafka+%2F+Airflow+%2F+BigQuery+%2F+Redshift" alt="typing" />
 </p>
-
+<!-- 
 <p align="center">
   <a href="mailto:healer365.life@gmail.com"><img src="https://img.shields.io/badge/Email-healer365.life%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://linkedin.com/in/healer365life"><img src="https://img.shields.io/badge/LinkedIn-healer365life-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://github.com/yeshealer"><img src="https://img.shields.io/badge/GitHub-yeshealer-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://t.me/healer365life"><img src="https://img.shields.io/badge/Telegram-healer365life-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-</p>
+</p> -->
 
 ## About Me
 
