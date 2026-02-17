@@ -118,10 +118,10 @@
 
 ## GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeshealer&show_icons=true&theme=transparent&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshealer&layout=compact&theme=transparent&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yeshealer&theme=transparent&hide_border=true" alt="streak" />
