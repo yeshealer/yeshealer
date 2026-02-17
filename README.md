@@ -75,16 +75,8 @@ Interested in:
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 healer365.life@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/healer365life
-- 💻 GitHub: https://github.com/yeshealer
-- 💬 Telegram: https://t.me/healer365life
-
----
-
 <p align="center">
   ⚡ Building the future of Web3, AI, and scalable digital products.
 </p>
+
 
