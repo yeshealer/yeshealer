@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Engineer with 6+ years of experience building production-ready web applications using **React, Next.js, Node.js, and TypeScript**.
+Full Stack Engineer with 10+ years of experience building production-ready web applications using **React, Next.js, Node.js, and TypeScript**.
 
 I specialize in:
 
@@ -78,5 +78,6 @@ Interested in:
 <p align="center">
   ⚡ Building the future of Web3, AI, and scalable digital products.
 </p>
+
 
 
