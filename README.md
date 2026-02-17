@@ -1,4 +1,4 @@
-﻿# Hi, I'm a Full-Stack, Blockchain, and AI Engineer
+## Hi, I'm a Full-Stack, Blockchain, and AI Engineer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Full-Stack%20%7C%20Blockchain%20%7C%20AI&fontAlignY=38&fontColor=ffffff&desc=Building%20production-grade%20apps%20across%20Web2%20and%20Web3&descAlignY=58" alt="header" />
